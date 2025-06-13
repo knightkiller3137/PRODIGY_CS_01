@@ -32,7 +32,7 @@ The script uses two main functions:
 Run using Python 3:
 `python caesar_cipher.py `
 
-##🔒 Use Cases
+🔒 Use Cases
 - Educational tool for learning about classical cryptography.
 - Teaching modular arithmetic and ASCII manipulation in Python.
 - Light obfuscation of text (not suitable for real security).
