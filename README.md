@@ -21,16 +21,16 @@ The script uses two main functions:
 - `encrypt(text, shift)` – Encrypts the input text by shifting letters forward in the alphabet.
 - `decrypt(text, shift)` – Decrypts by reversing the shift.
 
-### ✅ Features:
+✅ Features:
 - Supports **both uppercase and lowercase** letters.
 - **Non-alphabet characters** (spaces, punctuation, numbers) are preserved as-is.
 - Easy to modify for different shift values or variations of the cipher.
 
-##📂 How to Run
+📂 How to Run
 - Save the code to a file named caesar_cipher.py.
 
-`Run using Python 3:
-python caesar_cipher.py `
+Run using Python 3:
+`python caesar_cipher.py `
 
 ##🔒 Use Cases
 - Educational tool for learning about classical cryptography.
